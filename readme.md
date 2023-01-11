@@ -17,8 +17,8 @@ I den här uppgiften ska du skapa ett bildgalleri med hjälp av css grid. Med et
 
 ## Vad behöver du?-
 
-- [ ] Gör en fork av det här repot.
-- [ ] Leta reda på bilder som du vill använda.
+- [x] Gör en fork av det här repot.
+- [x] Leta reda på bilder som du vill använda.
     * Bilderna ska ha ett gemensamt tema.
     * Du behöver 3-5 bilder.
     * Du kan använda dig av [Unsplash](https://unsplash.com/) eller [Pexels](https://www.pexels.com/).

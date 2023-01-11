@@ -1,5 +1,12 @@
 body {
     font-size: 1.2rem;
+    background-color: aqua;
+}
+
+h1 {
+    width: max-content;
+    width: min-content;    
+    margin: auto;
 }
 .container {
     width: min(80ch, 100vw - 4rem);
