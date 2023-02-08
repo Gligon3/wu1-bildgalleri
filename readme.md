@@ -23,7 +23,7 @@ I den här uppgiften ska du skapa ett bildgalleri med hjälp av css grid. Med et
     * Du behöver 3-5 bilder.
     * Du kan använda dig av [Unsplash](https://unsplash.com/) eller [Pexels](https://www.pexels.com/).
     * Var noga med att det är bilder du får använda och publicera.
-- [ ] Förstå koden i `index.html`
+- [x] Förstå koden i `index.html`
     * Studera strukturen
     * Varför skrivs innehållet i en lista?
     * Hur fungerar `figure`
@@ -31,9 +31,9 @@ I den här uppgiften ska du skapa ett bildgalleri med hjälp av css grid. Med et
 ## Hur?
 
 - [ ] Skapa ett grid med kolumner som är responsiva.
-- [ ] Redigera dokumentet så att bilderna visas.
-- [ ] Använd dig av figure, figcaption för att förklara bilderna.
-- [ ] Arbeta med detta under lektionen.
+- [x] Redigera dokumentet så att bilderna visas.
+- [x] Använd dig av figure, figcaption för att förklara bilderna.
+- [x] Arbeta med detta under lektionen.
 
 ## Förklaring
 
